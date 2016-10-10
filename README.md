@@ -28,8 +28,8 @@
 	`$ ../configure CXX=g++ --disable-async-updates`    
 	`$ sudo make install`  
 	`$ pwd`   
-		执行第四条命令后的结果为  ![](https://github.com/yxr123456/Resource/blob/master/configure.PNG)  
-		执行pwd后的结果为  ![](https://github.com/yxr123456/Resource/blob/master/pwd.PNG)  
+		执行第四条命令后的结果为<br/>![](https://github.com/yxr123456/Resource/blob/master/configure.PNG)  
+		执行pwd后的结果为<br/>![](https://github.com/yxr123456/Resource/blob/master/pwd.PNG)  
 
 		(PS:第一条命令的功能是进入到systemc-2.3.1文件夹，第二条命令的功能是在systemc-2.3.1文件夹中创建名称为objdir的文件夹，第三条命令的功能是进入objdir文件夹，第四条命令的功能是根据系统环境设置g++编译器的参数，第五条命令的功能是编译systemc，第六条命令的功能是显示当前的工作目录，**另外输入pwd后记得要将结果记录下来**)  
 	* 打开dol文件夹中的build_zip.xml,将`<property name="systemc.inc" value="YYY/include"/><property name="systemc.lib" value="YYY/lib-linux/libsystemc.a"/>`中的YYY替代为上一步中pwd得到的结果。 
@@ -39,8 +39,10 @@
 	`$ ant -f build_zip.xml all`    
 	`$ cd build/bin/main`  
 	`$ ant -f runexample.xml -Dnumber=1`  
-		执行第一条命令后的结果为  ![](https://github.com/yxr123456/Resource/blob/master/compileDol.PNG)  
-		执行第三条命令后的结果为  ![](https://github.com/yxr123456/Resource/blob/master/runexample.PNG)  
+	 执行第一条命令后的结果为<br />  
+	![icon](https://github.com/yxr123456/Resource/blob/master/compileDol.PNG)  
+	执行第三条命令后的结果为  <br/>
+	![](https://github.com/yxr123456/Resource/blob/master/runexample.PNG)  
 
 		(PS:第一条命令的功能是编译build_zip.xml文件，第二条命令的功能是进入到main文件夹，第三条命令的功能是编译运行runexample.xml文件)
 
