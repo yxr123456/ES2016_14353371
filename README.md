@@ -47,6 +47,7 @@
 	![image4](https://github.com/yxr123456/Resource/blob/master/runexample.PNG)  
 
 		(PS:第一条命令的功能是编译build_zip.xml文件，第二条命令的功能是进入到main文件夹，第三条命令的功能是编译运行runexample.xml文件)
+	* 至此，DOL开发环境配置成功。
 
 ### 3. Experimental experience
 
