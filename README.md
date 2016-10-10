@@ -41,7 +41,7 @@
 	`$ ant -f build_zip.xml all`    
 	`$ cd build/bin/main`  
 	`$ ant -f runexample.xml -Dnumber=1`  
-	执行第一条命令后的结果为<br />  
+	执行第一条命令后的结果为<br/>
 	![image3](https://github.com/yxr123456/Resource/blob/master/compileDol.PNG)  
 	执行第三条命令后的结果为<br/>
 	![image4](https://github.com/yxr123456/Resource/blob/master/runexample.PNG)  
