@@ -72,8 +72,21 @@
 &emsp;&emsp;配置环境和安装rosinstall的过程如下图所示：
 
 &emsp;&emsp;![](https://github.com/yxr123456/Resource/blob/master/EnvironmentSetupAndInstall.JPG)
+## 2.例子演示
 
-## 2.实验感想
+&emsp;&emsp;安装了ROS后，在网上找了一个小例子来玩一玩ROS，既能验证ROS安装成功，同时也体验一下ROS这个软件的乐趣。  
+
+&emsp;&emsp;例子如下图所示：  
+  
+![](https://github.com/yxr123456/Resource/blob/master/sample.JPG)  
+  
+&emsp;&emsp;按照图中的命令进行操作，可以控制小乌龟的运动，得到下图：  
+    
+![](https://github.com/yxr123456/Resource/blob/master/turtle.JPG)
+  
+&emsp;&emsp;这里附上例子的链接：[例子](http://www.cnblogs.com/cv-pr/p/4829015.html)
+
+## 3.实验感想
 
 &emsp;&emsp;首先想说的是很庆幸这次安装ROS没遇到什么比较奇怪的问题，根据教程一步一步做，最终成功安装了ROS这个很有趣的软件。看到群上其他同学在安装过程中遇到了很多问题，不免觉得自己还是很幸运的！  
 &emsp;&emsp;ROS为我们提供了强大的功能，其中文名称为机器人操作系统，通过ROS，我们可以做许多有趣的事情，比如我们可以用它模拟一个机器人的运动等等。当然还有许多有趣的事情可以做，相信接下来会有机会接触到！  
