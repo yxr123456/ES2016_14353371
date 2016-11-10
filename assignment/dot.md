@@ -4,11 +4,11 @@
 
  - example2.dot:  
  
- ![](https://github.com/yxr123456/Resource/blob/master/lab2example2dot.png)  
+ ![](https://github.com/yxr123456/Resource/blob/master/dot_example2.png)  
   
  - example1.dot:  
  
- ![](https://github.com/yxr123456/Resource/blob/master/lab2example1dot.png)  
+ ![](https://github.com/yxr123456/Resource/blob/master/dot_example1.png) 
 
 ### 2. 修改思路    
   
