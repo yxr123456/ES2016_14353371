@@ -59,8 +59,8 @@
 
 ###(4)安装cartographer_ros
 
-将cartographer_ros安装在catkin_ws的src文件夹中，并在catkin_ws文件夹下执行catkin_make命令：  
-raw
+将cartographer\_ros安装在catkin\_ws的src文件夹中，并在catkin\_ws文件夹下执行catkin_make命令：  
+
 	mkdir catkin_ws
 	cd catkin_ws
 	mkdir src
@@ -73,7 +73,7 @@ raw
 
 ![](https://github.com/yxr123456/Resource/raw/master/installCartographer_ros.JPG)
 
-执行catkin_make指令的过程截图如下：  
+执行catkin\_make指令的过程截图如下：  
 
 ![](https://github.com/yxr123456/Resource/raw/master/catkin_make.JPG)
 
